@@ -6,7 +6,7 @@
 # To exploit this "feature" you will need valid credentials.'
 # Based on latest (3.6.5-1) version.'
 #   Tested also on: 3.7.x
-
+# 首先要知道username和passwd，然后要以http://xxxxx.xxxx的方式
 
 import requests
 import re
